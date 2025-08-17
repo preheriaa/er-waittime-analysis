@@ -133,8 +133,7 @@ Key references include:
 ## 📎 Replication Package  
 
 - Full code and documentation available in this repository  
-- Dataset available on Kaggle (linked above)  
-- Final IEEE-style report included in `/reports`  
+- Dataset available on Kaggle (linked above) 
 
 ---
 
